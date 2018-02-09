@@ -1,2 +1,4 @@
 # zabbix
 通过shell脚本获取zabbix监控项的图形，然后通过python脚本将图形嵌入邮件，发送到指定邮箱
+
+必须先执行shell脚本，然后在shell脚本中引用python脚本
